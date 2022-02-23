@@ -1,0 +1,18 @@
+body {
+  background-color: #EEEEEE;}
+hr {
+  border-style: dotted none none;
+  width: 50px;
+  border-color: grey;
+  border-width:10px;
+  width: 5%;}
+
+img {
+ height: 150px;}
+
+ h1 {
+   color: #66BFBF;
+   font-family: "Papyrus";}
+
+h3 {
+  color: #3E00FF;}
